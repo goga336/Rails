@@ -28,4 +28,4 @@
 ![Скриншот приложения](image.png)
 
 ## Видео-демонстрация:
-[Ссылка на видео]()
+[Ссылка на видео](https://github.com/goga336/Resume/blob/main/my_qt_projects/qml/video.mov)
