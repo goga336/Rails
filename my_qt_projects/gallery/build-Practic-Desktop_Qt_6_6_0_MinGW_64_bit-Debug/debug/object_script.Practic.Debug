@@ -1,0 +1,14 @@
+debug/add_element.o
+debug/graphic.o
+debug/list.o
+debug/main.o
+debug/pictureinhall.o
+debug/picturetimeperiod.o
+debug/window.o
+debug/zapas.o
+debug/moc_add_element.o
+debug/moc_graphic.o
+debug/moc_pictureinhall.o
+debug/moc_picturetimeperiod.o
+debug/moc_window.o
+debug/moc_zapas.o

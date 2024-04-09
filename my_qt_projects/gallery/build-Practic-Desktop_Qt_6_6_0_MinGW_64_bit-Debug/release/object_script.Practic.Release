@@ -1,0 +1,14 @@
+release/add_element.o
+release/graphic.o
+release/list.o
+release/main.o
+release/pictureinhall.o
+release/picturetimeperiod.o
+release/window.o
+release/zapas.o
+release/moc_add_element.o
+release/moc_graphic.o
+release/moc_pictureinhall.o
+release/moc_picturetimeperiod.o
+release/moc_window.o
+release/moc_zapas.o

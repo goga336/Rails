@@ -1,0 +1,3 @@
+/home/maksim/Рабочий стол/Praktic/cmake-build-debug/CMakeFiles/Praktic.dir
+/home/maksim/Рабочий стол/Praktic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/maksim/Рабочий стол/Praktic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
